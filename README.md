@@ -25,12 +25,21 @@
 十、javascript流程控制
 
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/01.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/02.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/03.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/04.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/05.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/06.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/07.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/08.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/09.jpg
+
 ![image]https://github.com/yangliOMG/es5_KnowledgeRecord/blob/master/img/10.jpg
